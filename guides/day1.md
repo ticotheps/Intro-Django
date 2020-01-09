@@ -256,7 +256,7 @@ Create a new note with:
 n = Note(title="example", content="This is a test.")
 ```
 
-Check by the name of your variable to make sure worked:
+Check by the name of your variable to make sure it worked:
 
 ```python
 n
